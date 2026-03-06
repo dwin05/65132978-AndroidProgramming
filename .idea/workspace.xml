@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d169ef40-3dd3-46b8-a3de-7feffb8304e0" name="Changes" comment="Hello Android" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dwin05&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dwin05/65132978-AndroidProgramming.git&quot;,
+    &quot;accountId&quot;: &quot;b0cc3ae6-e01d-424b-9f23-50f9c64c677c&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3AaAxRGh0AfUOhpzUl8QmEuK1Fl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/quynhnguyen/65132978-AndroidProgramming"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d169ef40-3dd3-46b8-a3de-7feffb8304e0" name="Changes" comment="" />
+      <created>1772820554399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772820554399</updated>
+    </task>
+    <task id="LOCAL-00001" summary="hello android">
+      <option name="closed" value="true" />
+      <created>1772821849232</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1772821849232</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hello android">
+      <option name="closed" value="true" />
+      <created>1772821864321</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1772821864321</updated>
+    </task>
+    <task id="LOCAL-00003" summary="hello android">
+      <option name="closed" value="true" />
+      <created>1772821869456</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1772821869456</updated>
+    </task>
+    <task id="LOCAL-00004" summary="hello android">
+      <option name="closed" value="true" />
+      <created>1772821884719</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1772821884719</updated>
+    </task>
+    <task id="LOCAL-00005" summary="hello android">
+      <option name="closed" value="true" />
+      <created>1772821885879</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1772821885879</updated>
+    </task>
+    <task id="LOCAL-00006" summary="hello android">
+      <option name="closed" value="true" />
+      <created>1772821886070</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1772821886070</updated>
+    </task>
+    <task id="LOCAL-00007" summary="hello android">
+      <option name="closed" value="true" />
+      <created>1772821886270</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1772821886270</updated>
+    </task>
+    <task id="LOCAL-00008" summary="hello android">
+      <option name="closed" value="true" />
+      <created>1772821886454</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1772821886454</updated>
+    </task>
+    <task id="LOCAL-00009" summary="hello android">
+      <option name="closed" value="true" />
+      <created>1772821886626</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1772821886626</updated>
+    </task>
+    <task id="LOCAL-00010" summary="hello android">
+      <option name="closed" value="true" />
+      <created>1772821941005</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1772821941005</updated>
+    </task>
+    <task id="LOCAL-00011" summary="hello android">
+      <option name="closed" value="true" />
+      <created>1772821962368</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1772821962368</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Hello Android">
+      <option name="closed" value="true" />
+      <created>1772822131193</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1772822131193</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="hello android" />
+    <MESSAGE value="Hello Android" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello Android" />
+  </component>
+</project>
