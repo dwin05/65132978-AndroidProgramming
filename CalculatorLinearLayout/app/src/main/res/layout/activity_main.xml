@@ -18,7 +18,6 @@
             android:text="Calculator"
             android:textSize="24sp"
             android:gravity="center"
-            android:textColor="@color/material_dynamic_neutral0"
             android:layout_height="80dp"/>
     </LinearLayout>
 
@@ -74,21 +73,17 @@
             android:layout_height="wrap_content"
             android:layout_margin="5dp"
             android:onClick="Cong"
-            android:backgroundTint="@color/design_default_color_primary_variant"
             android:text="+" />
         <Button
             android:id="@+id/btnTru"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_margin="5dp"
-            android:onClick="Tru"
-            android:backgroundTint="@color/design_default_color_primary_variant"
-            android:text="-" />
+            android:onClick="Tru" android:text="-" />
         <Button
             android:id="@+id/btnNhan"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:backgroundTint="@color/design_default_color_primary_variant"
             android:layout_margin="5dp"
             android:onClick="Nhan"
             android:text="x" />
@@ -96,7 +91,6 @@
             android:id="@+id/btnChia"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:backgroundTint="@color/design_default_color_primary_variant"
             android:layout_margin="5dp"
             android:onClick="Chia"
             android:text="/" />
