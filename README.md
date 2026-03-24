@@ -17,7 +17,7 @@
 
 <img width="1122" height="739" alt="image" src="https://github.com/user-attachments/assets/e50d0456-587d-457d-af76-51c4748ba16b" />
 
-*App cho phép tính tổng hai số nguyên bất kỳ được nhập từ bàn phím.*
+*App cho phép tính tổng hai số bất kỳ được nhập từ bàn phím.*
 
 ---
 ### Bài làm thêm - App tính cộng trừ nhân chia (Calculator) sử dụng clickOnListener
@@ -26,7 +26,7 @@
 
 <img width="1113" height="730" alt="image" src="https://github.com/user-attachments/assets/ec9ddd40-bb52-4972-8a26-c1dd5320a5bd" />
 
-*App cho phép tính thực hiện các phép toán cộng, trừ, nhân, chia hai số nguyên bất kỳ được nhập từ bàn phím. Có ràng buộc đối với phép chia.*
+*App cho phép thực hiện các phép toán cộng, trừ, nhân, chia hai số bất kỳ được nhập từ bàn phím. Có ràng buộc đối với phép chia.*
 
 ### Bài làm thêm về tính phương trình bậc 1 (GiaiPTBac1) sử dụng clickOnListener
 
@@ -42,9 +42,10 @@
 
 <img width="1110" height="731" alt="image" src="https://github.com/user-attachments/assets/803e273a-808e-4cd0-8068-b52156773013" />
 
-*Giao diện Linear Layout với các button.*
+*Giao diện Linear Layout với các button theo video youtube hướng dẫn của giảng viên.*
 
 ### Bài 4,5 App tính cộng trừ nhân chia + LinearLayout(Calculator) sử dụng clickOnListener
+
 [Chi tiết](CalculatorLinearLayout/app/src/main/res/layout/activity_main.xml)
 
 <img width="1107" height="732" alt="image" src="https://github.com/user-attachments/assets/befeb215-6821-47b4-b0eb-258df3742e1e" />
