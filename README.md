@@ -1,5 +1,5 @@
 # 65132978-AndroidProgramming
-## Kho lưu trữ bài tập môn lập trình thiết bị di 
+## Kho lưu trữ bài tập môn lập trình thiết bị di động của Diễm Quỳnh - 65.CNTT-2
 ##
 ### Bài 1 Hello World
 
