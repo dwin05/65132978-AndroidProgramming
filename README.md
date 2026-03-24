@@ -3,7 +3,7 @@
 ##
 ### Bài 1 Hello World
 
-[Chi tiết](.HelloAndroid/app/src/main/res/layout/activity_main.xml)
+[Chi tiết](HelloAndroid/app/src/main/res/layout/activity_main.xml)
 
 <img width="1103" height="730" alt="image" src="https://github.com/user-attachments/assets/8e0d37d8-18b5-4e90-b851-839659634288" />
 
