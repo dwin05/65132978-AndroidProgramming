@@ -79,6 +79,15 @@
 
 *Hiển thị listview và có header*
 
+### Bài 8 Menu (App Menu)
+
+[Chi tiết]()
+
+<img width="1133" height="739" alt="image" src="https://github.com/user-attachments/assets/33c99d48-a545-4a5c-8e10-ed5496419154" />
+
+*App menu món ăn làm theo hướng dẫn video trên youtube của giảng viên.*
+
+
 
 
 
