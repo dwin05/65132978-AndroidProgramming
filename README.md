@@ -68,6 +68,10 @@
 
 *Listview tỉnh thành làm theo hướng dẫn video trên youtube của giảng viên.*
 
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/7d9cd780-42eb-4ffc-819d-34347ad32d26" />
+
+*Bổ sung thêm bộ lắng nghe và xử lý - hiển thị khi được chọn.*
+
 ### Bài làm thêm listview vật liệu
 [Chi tiết](LVVatLieu/app/src/main/res/layout/activity_main.xml)
 
