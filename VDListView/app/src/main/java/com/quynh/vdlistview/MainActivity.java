@@ -1,8 +1,11 @@
 package com.quynh.vdlistview;
 
 import android.os.Bundle;
+import android.view.View;
+import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+import android.widget.Toast;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
@@ -48,5 +51,14 @@ public class MainActivity extends AppCompatActivity {
         // 3. connect dieu khien va listview
         ListView lvTinh = findViewById(R.id.lvTinh);
         lvTinh.setAdapter(adapterTinh);
+
+        AdapterView.OnItemClickListener BoLangNghe = new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+                String choose = dsTinh.get(position);
+                Toast.makeText(MainActivity.this,"Ban vua chon: "+ choose, Toast.LENGTH_LONG).show();
+            }
+        };
+        lvTinh.setOnItemClickListener(BoLangNghe);
     }
 }
