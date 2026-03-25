@@ -68,6 +68,15 @@
 
 *Listview tỉnh thành làm theo hướng dẫn video trên youtube của giảng viên.*
 
+### Bài làm thêm listview vật liệu
+[Chi tiết]()
+
+<img width="1149" height="734" alt="image" src="https://github.com/user-attachments/assets/a91bcfb8-00bc-4783-9c0d-b8d11b61bb51" />
+
+*Hiển thị listview và có header*
+
+
+
 
 
 
