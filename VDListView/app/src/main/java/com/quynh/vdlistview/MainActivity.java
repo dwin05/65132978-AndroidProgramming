@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
         ArrayAdapter<String> adapterTinh = new ArrayAdapter<String>(this,
                 androidx.appcompat.R.layout.support_simple_spinner_dropdown_item,
                 dsTinh);
-        // 3. connect dieu khien va listview
+        // 3. connect  dieu khien va listview
         ListView lvTinh = findViewById(R.id.lvTinh);
         lvTinh.setAdapter(adapterTinh);
 
