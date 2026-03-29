@@ -89,7 +89,7 @@
 
 ### Bài 9 RecyclerView (RecyclerView_LandScape)
 
-[Chi tiết]()
+[Chi tiết](RecyclerView_Landscape/app/src)
 
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/c12a3ac7-a48e-4f3f-9ef7-f72d788df25e" />
 
