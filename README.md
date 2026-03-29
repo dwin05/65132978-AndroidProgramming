@@ -81,11 +81,20 @@
 
 ### Bài 8 Menu (App Menu)
 
-[Chi tiết]()
+[Chi tiết](AppMenu/app/src/main)
 
 <img width="1133" height="739" alt="image" src="https://github.com/user-attachments/assets/33c99d48-a545-4a5c-8e10-ed5496419154" />
 
 *App menu món ăn làm theo hướng dẫn video trên youtube của giảng viên.*
+
+### Bài 9 RecyclerView (RecyclerView_LandScape)
+
+[Chi tiết]()
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/c12a3ac7-a48e-4f3f-9ef7-f72d788df25e" />
+
+* App sử dụng recycler view theo video youtube hướng dẫn của giảng viên.*
+
 
 
 
