@@ -87,6 +87,15 @@
 
 *App menu món ăn làm theo hướng dẫn video trên youtube của giảng viên.*
 
+### Bài 9 RecyclerView (RecyclerView_LandScape)
+
+[Chi tiết]()
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/c12a3ac7-a48e-4f3f-9ef7-f72d788df25e" />
+
+* App sử dụng recycler view theo video youtube hướng dẫn của giảng viên.*
+
+
 
 
 
