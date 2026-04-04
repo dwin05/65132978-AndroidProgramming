@@ -101,6 +101,10 @@
 
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/b05d9ba2-9187-4765-b363-6835182f95b7" />
 
+<img width="1140" height="748" alt="image" src="https://github.com/user-attachments/assets/92a936aa-9e21-44fb-a4c2-0137b0d00148" />
+
+*Màn hình thứ 2 khi được chuyển đi.*
+
 *Sử dụng Explicit Intents, thực hiện chuyển qua lại giữa các màn hình.*
 
 
