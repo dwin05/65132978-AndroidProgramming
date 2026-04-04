@@ -95,6 +95,15 @@
 
 * App sử dụng recycler view theo video youtube hướng dẫn của giảng viên.*
 
+### Bài 10 vd1 Explicit Intents
+
+[Chi tiết]()
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/b05d9ba2-9187-4765-b363-6835182f95b7" />
+
+*Sử dụng Explicit Intents, thực hiện chuyển qua lại giữa các màn hình.*
+
+
 
 
 
