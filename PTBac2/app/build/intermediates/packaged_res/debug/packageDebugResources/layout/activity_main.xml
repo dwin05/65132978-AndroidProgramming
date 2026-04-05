@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#F4EFBC"
+    tools:context=".MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="60dp"
+            android:layout_weight="5"
+            android:gravity="center"
+            android:text="Giải phương trình bậc 2"
+            android:textColor="#4B0606"
+            android:textSize="30dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="25dp"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="40dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="30dp"
+            android:paddingTop="15dp"
+            android:text="A: "
+            android:textSize="22dp"/>
+
+        <EditText
+            android:id="@+id/edtA"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#C2EB93"
+            android:hint="Nhap so thu nhat" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="15dp"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="40dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="30dp"
+            android:paddingTop="15dp"
+            android:text="B: "
+            android:textSize="22dp"/>
+
+        <EditText
+            android:id="@+id/edtB"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#C2EB93"
+            android:hint="Nhap so thu hai" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="15dp"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="40dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="30dp"
+            android:paddingTop="15dp"
+            android:text="C: "
+            android:textSize="22dp"/>
+
+        <EditText
+            android:id="@+id/edtC"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#C2EB93"
+            android:hint="Nhap so thu ba" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:orientation="vertical">
+        <Button
+            android:id="@+id/btnTinh"
+            android:layout_width="150dp"
+            android:layout_height="80dp"
+            android:text="Tinh"
+            android:background="@drawable/btn"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="10dp"
+            android:paddingTop="15dp"
+            android:text="Kết quả: "
+            android:textSize="17dp"/>
+        <EditText
+            android:id="@+id/edtKQ"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#C2EB93" />
+    </LinearLayout>
+
+</LinearLayout>

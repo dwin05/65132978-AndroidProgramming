@@ -1,0 +1,430 @@
+Index: ../LVVatLieu/app/src/main/res/mipmap-anydpi-v26/img.xml
+===================================================================
+diff --git a/../LVVatLieu/app/src/main/res/mipmap-anydpi-v26/img.xml b/../LVVatLieu/app/src/main/res/mipmap-anydpi-v26/img.xml
+deleted file mode 100644
+--- a/../LVVatLieu/app/src/main/res/mipmap-anydpi-v26/img.xml	(revision e990dba3350d345e16470322207f8003457f287f)
++++ /dev/null	(revision e990dba3350d345e16470322207f8003457f287f)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="utf-8"?>
+-<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+-    <background android:drawable="@drawable/img_background"/>
+-    <foreground android:drawable="@mipmap/img_foreground"/>
+-    <monochrome android:drawable="@mipmap/img_foreground"/>
+-</adaptive-icon>
+\ No newline at end of file
+Index: ../LVVatLieu/app/src/main/res/drawable/img_background.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../LVVatLieu/app/src/main/res/drawable/img_background.xml b/../LVVatLieu/app/src/main/res/drawable/img_background.xml
+deleted file mode 100644
+--- a/../LVVatLieu/app/src/main/res/drawable/img_background.xml	(revision e990dba3350d345e16470322207f8003457f287f)
++++ /dev/null	(revision e990dba3350d345e16470322207f8003457f287f)
+@@ -1,74 +0,0 @@
+-<?xml version="1.0" encoding="utf-8"?>
+-<vector
+-    android:height="108dp"
+-    android:width="108dp"
+-    android:viewportHeight="108"
+-    android:viewportWidth="108"
+-    xmlns:android="http://schemas.android.com/apk/res/android">
+-    <path android:fillColor="#3DDC84"
+-          android:pathData="M0,0h108v108h-108z"/>
+-    <path android:fillColor="#00000000" android:pathData="M9,0L9,108"
+-          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
+-    <path android:fillColor="#00000000" android:pathData="M19,0L19,108"
+-          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
+-    <path android:fillColor="#00000000" android:pathData="M29,0L29,108"
+-          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
+-    <path android:fillColor="#00000000" android:pathData="M39,0L39,108"
+-          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
+-    <path android:fillColor="#00000000" android:pathData="M49,0L49,108"
+-          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
+-    <path android:fillColor="#00000000" android:pathData="M59,0L59,108"
+-          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
+-    <path android:fillColor="#00000000" android:pathData="M69,0L69,108"
+-          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
+-    <path android:fillColor="#00000000" android:pathData="M79,0L79,108"
+-          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
+-    <path android:fillColor="#00000000" android:pathData="M89,0L89,108"
+-          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
+-    <path android:fillColor="#00000000" android:pathData="M99,0L99,108"
+-          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
+-    <path android:fillColor="#00000000" android:pathData="M0,9L108,9"
+-          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
+-    <path android:fillColor="#00000000" android:pathData="M0,19L108,19"
+-          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
+-    <path android:fillColor="#00000000" android:pathData="M0,29L108,29"
+-          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
+-    <path android:fillColor="#00000000" android:pathData="M0,39L108,39"
+-          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
+-    <path android:fillColor="#00000000" android:pathData="M0,49L108,49"
+-          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
+-    <path android:fillColor="#00000000" android:pathData="M0,59L108,59"
+-          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
+-    <path android:fillColor="#00000000" android:pathData="M0,69L108,69"
+-          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
+-    <path android:fillColor="#00000000" android:pathData="M0,79L108,79"
+-          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
+-    <path android:fillColor="#00000000" android:pathData="M0,89L108,89"
+-          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
+-    <path android:fillColor="#00000000" android:pathData="M0,99L108,99"
+-          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
+-    <path android:fillColor="#00000000" android:pathData="M19,29L89,29"
+-          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
+-    <path android:fillColor="#00000000" android:pathData="M19,39L89,39"
+-          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
+-    <path android:fillColor="#00000000" android:pathData="M19,49L89,49"
+-          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
+-    <path android:fillColor="#00000000" android:pathData="M19,59L89,59"
+-          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
+-    <path android:fillColor="#00000000" android:pathData="M19,69L89,69"
+-          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
+-    <path android:fillColor="#00000000" android:pathData="M19,79L89,79"
+-          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
+-    <path android:fillColor="#00000000" android:pathData="M29,19L29,89"
+-          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
+-    <path android:fillColor="#00000000" android:pathData="M39,19L39,89"
+-          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
+-    <path android:fillColor="#00000000" android:pathData="M49,19L49,89"
+-          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
+-    <path android:fillColor="#00000000" android:pathData="M59,19L59,89"
+-          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
+-    <path android:fillColor="#00000000" android:pathData="M69,19L69,89"
+-          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
+-    <path android:fillColor="#00000000" android:pathData="M79,19L79,89"
+-          android:strokeColor="#33FFFFFF" android:strokeWidth="0.8"/>
+-</vector>
+Index: ../LVVatLieu/app/src/main/res/mipmap-anydpi-v26/img_round.xml
+===================================================================
+diff --git a/../LVVatLieu/app/src/main/res/mipmap-anydpi-v26/img_round.xml b/../LVVatLieu/app/src/main/res/mipmap-anydpi-v26/img_round.xml
+deleted file mode 100644
+--- a/../LVVatLieu/app/src/main/res/mipmap-anydpi-v26/img_round.xml	(revision e990dba3350d345e16470322207f8003457f287f)
++++ /dev/null	(revision e990dba3350d345e16470322207f8003457f287f)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="utf-8"?>
+-<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+-    <background android:drawable="@drawable/img_background"/>
+-    <foreground android:drawable="@mipmap/img_foreground"/>
+-    <monochrome android:drawable="@mipmap/img_foreground"/>
+-</adaptive-icon>
+\ No newline at end of file
+Index: ../LVVatLieu/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+===================================================================
+diff --git a/../LVVatLieu/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml b/../LVVatLieu/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+deleted file mode 100644
+--- a/../LVVatLieu/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml	(revision e990dba3350d345e16470322207f8003457f287f)
++++ /dev/null	(revision e990dba3350d345e16470322207f8003457f287f)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="utf-8"?>
+-<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+-    <background android:drawable="@drawable/ic_launcher_background" />
+-    <foreground android:drawable="@drawable/ic_launcher_foreground" />
+-    <monochrome android:drawable="@drawable/ic_launcher_foreground" />
+-</adaptive-icon>
+\ No newline at end of file
+Index: ../LVVatLieu/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+===================================================================
+diff --git a/../LVVatLieu/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml b/../LVVatLieu/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+deleted file mode 100644
+--- a/../LVVatLieu/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml	(revision e990dba3350d345e16470322207f8003457f287f)
++++ /dev/null	(revision e990dba3350d345e16470322207f8003457f287f)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="utf-8"?>
+-<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+-    <background android:drawable="@drawable/ic_launcher_background" />
+-    <foreground android:drawable="@drawable/ic_launcher_foreground" />
+-    <monochrome android:drawable="@drawable/ic_launcher_foreground" />
+-</adaptive-icon>
+\ No newline at end of file
+Index: ../HelloAndroid/.idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ExternalStorageConfigurationManager\" enabled=\"true\" />\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_21\" default=\"true\" project-jdk-name=\"jbr-21\" project-jdk-type=\"JavaSDK\">\n    <output url=\"file://$PROJECT_DIR$/build/classes\" />\n  </component>\n  <component name=\"ProjectType\">\n    <option name=\"id\" value=\"Android\" />\n  </component>\n  <component name=\"VisualizationToolProject\">\n    <option name=\"state\">\n      <ProjectState>\n        <option name=\"scale\" value=\"0.15170410156249997\" />\n      </ProjectState>\n    </option>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../HelloAndroid/.idea/misc.xml b/../HelloAndroid/.idea/misc.xml
+--- a/../HelloAndroid/.idea/misc.xml	(revision e990dba3350d345e16470322207f8003457f287f)
++++ b/../HelloAndroid/.idea/misc.xml	(date 1774358935469)
+@@ -1,4 +1,3 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ExternalStorageConfigurationManager" enabled="true" />
+   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="jbr-21" project-jdk-type="JavaSDK">
+Index: ../vdLayOut/.idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><project version=\"4\">\n  <component name=\"ExternalStorageConfigurationManager\" enabled=\"true\" />\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_21\" project-jdk-name=\"21\" project-jdk-type=\"JavaSDK\">\n    <output url=\"file://$PROJECT_DIR$/build/classes\" />\n  </component>\n  <component name=\"ProjectType\">\n    <option name=\"id\" value=\"Android\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../vdLayOut/.idea/misc.xml b/../vdLayOut/.idea/misc.xml
+--- a/../vdLayOut/.idea/misc.xml	(revision e990dba3350d345e16470322207f8003457f287f)
++++ b/../vdLayOut/.idea/misc.xml	(date 1774363523073)
+@@ -1,6 +1,7 @@
++<?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ExternalStorageConfigurationManager" enabled="true" />
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" project-jdk-name="21" project-jdk-type="JavaSDK">
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="jbr-21" project-jdk-type="JavaSDK">
+     <output url="file://$PROJECT_DIR$/build/classes" />
+   </component>
+   <component name="ProjectType">
+Index: ../VDListView/.idea/gradle.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"GradleSettings\">\n    <option name=\"linkedExternalProjectsSettings\">\n      <GradleProjectSettings>\n        <option name=\"testRunner\" value=\"CHOOSE_PER_TEST\" />\n        <option name=\"externalProjectPath\" value=\"$PROJECT_DIR$\" />\n        <option name=\"modules\">\n          <set>\n            <option value=\"$PROJECT_DIR$\" />\n            <option value=\"$PROJECT_DIR$/app\" />\n          </set>\n        </option>\n      </GradleProjectSettings>\n    </option>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../VDListView/.idea/gradle.xml b/../VDListView/.idea/gradle.xml
+--- a/../VDListView/.idea/gradle.xml	(revision e990dba3350d345e16470322207f8003457f287f)
++++ b/../VDListView/.idea/gradle.xml	(date 1774345362946)
+@@ -1,5 +1,6 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
++  <component name="GradleMigrationSettings" migrationVersion="1" />
+   <component name="GradleSettings">
+     <option name="linkedExternalProjectsSettings">
+       <GradleProjectSettings>
+Index: ../RecyclerView_Landscape/app/src/main/res/layout/activity_main.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"utf-8\"?>\n<androidx.constraintlayout.widget.ConstraintLayout xmlns:android=\"http://schemas.android.com/apk/res/android\"\n    xmlns:app=\"http://schemas.android.com/apk/res-auto\"\n    xmlns:tools=\"http://schemas.android.com/tools\"\n    android:id=\"@+id/main\"\n    android:layout_width=\"match_parent\"\n    android:layout_height=\"match_parent\"\n    tools:context=\".MainActivity\">\n\n    <androidx.recyclerview.widget.RecyclerView\n        android:id=\"@+id/recyclerLand\"\n        android:layout_width=\"0dp\"\n        android:layout_height=\"0dp\"\n        android:layout_marginStart=\"1dp\"\n        android:layout_marginTop=\"1dp\"\n        android:layout_marginEnd=\"1dp\"\n        android:layout_marginBottom=\"1dp\"\n        app:layout_constraintBottom_toBottomOf=\"parent\"\n        app:layout_constraintEnd_toEndOf=\"parent\"\n        app:layout_constraintStart_toStartOf=\"parent\"\n        app:layout_constraintTop_toTopOf=\"parent\"\n        app:layout_constraintVertical_bias=\"0.0\" />\n</androidx.constraintlayout.widget.ConstraintLayout>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../RecyclerView_Landscape/app/src/main/res/layout/activity_main.xml b/../RecyclerView_Landscape/app/src/main/res/layout/activity_main.xml
+--- a/../RecyclerView_Landscape/app/src/main/res/layout/activity_main.xml	(revision e990dba3350d345e16470322207f8003457f287f)
++++ b/../RecyclerView_Landscape/app/src/main/res/layout/activity_main.xml	(date 1775115188510)
+@@ -6,7 +6,6 @@
+     android:layout_width="match_parent"
+     android:layout_height="match_parent"
+     tools:context=".MainActivity">
+-
+     <androidx.recyclerview.widget.RecyclerView
+         android:id="@+id/recyclerLand"
+         android:layout_width="0dp"
+Index: ../AppMenu/.idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ExternalStorageConfigurationManager\" enabled=\"true\" />\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_21\" project-jdk-name=\"jbr-21\" project-jdk-type=\"JavaSDK\">\n    <output url=\"file://$PROJECT_DIR$/build/classes\" />\n  </component>\n  <component name=\"ProjectType\">\n    <option name=\"id\" value=\"Android\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../AppMenu/.idea/misc.xml b/../AppMenu/.idea/misc.xml
+--- a/../AppMenu/.idea/misc.xml	(revision e990dba3350d345e16470322207f8003457f287f)
++++ b/../AppMenu/.idea/misc.xml	(date 1775189738964)
+@@ -1,4 +1,3 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ExternalStorageConfigurationManager" enabled="true" />
+   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" project-jdk-name="jbr-21" project-jdk-type="JavaSDK">
+Index: ../GiaiPTBac1/.idea/gradle.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"GradleSettings\">\n    <option name=\"linkedExternalProjectsSettings\">\n      <GradleProjectSettings>\n        <option name=\"testRunner\" value=\"CHOOSE_PER_TEST\" />\n        <option name=\"externalProjectPath\" value=\"$PROJECT_DIR$\" />\n        <option name=\"modules\">\n          <set>\n            <option value=\"$PROJECT_DIR$\" />\n            <option value=\"$PROJECT_DIR$/app\" />\n          </set>\n        </option>\n      </GradleProjectSettings>\n    </option>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../GiaiPTBac1/.idea/gradle.xml b/../GiaiPTBac1/.idea/gradle.xml
+--- a/../GiaiPTBac1/.idea/gradle.xml	(revision e990dba3350d345e16470322207f8003457f287f)
++++ b/../GiaiPTBac1/.idea/gradle.xml	(date 1774360150804)
+@@ -1,5 +1,6 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
++  <component name="GradleMigrationSettings" migrationVersion="1" />
+   <component name="GradleSettings">
+     <option name="linkedExternalProjectsSettings">
+       <GradleProjectSettings>
+Index: ../CalculatorLinearLayout/.idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ExternalStorageConfigurationManager\" enabled=\"true\" />\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_21\" project-jdk-name=\"jbr-21\" project-jdk-type=\"JavaSDK\" />\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CalculatorLinearLayout/.idea/misc.xml b/../CalculatorLinearLayout/.idea/misc.xml
+--- a/../CalculatorLinearLayout/.idea/misc.xml	(revision e990dba3350d345e16470322207f8003457f287f)
++++ b/../CalculatorLinearLayout/.idea/misc.xml	(date 1774368076875)
+@@ -1,5 +1,5 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ExternalStorageConfigurationManager" enabled="true" />
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" project-jdk-name="jbr-21" project-jdk-type="JavaSDK" />
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="jbr-21" project-jdk-type="JavaSDK" />
+ </project>
+\ No newline at end of file
+Index: ../PTBacHai/.idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><project version=\"4\">\n  <component name=\"ExternalStorageConfigurationManager\" enabled=\"true\" />\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_21\" project-jdk-name=\"jbr-21\" project-jdk-type=\"JavaSDK\">\n    <output url=\"file://$PROJECT_DIR$/build/classes\" />\n  </component>\n  <component name=\"ProjectType\">\n    <option name=\"id\" value=\"Android\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../PTBacHai/.idea/misc.xml b/../PTBacHai/.idea/misc.xml
+--- a/../PTBacHai/.idea/misc.xml	(revision e990dba3350d345e16470322207f8003457f287f)
++++ b/../PTBacHai/.idea/misc.xml	(date 1774368388463)
+@@ -1,6 +1,7 @@
++<?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ExternalStorageConfigurationManager" enabled="true" />
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" project-jdk-name="jbr-21" project-jdk-type="JavaSDK">
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="jbr-21" project-jdk-type="JavaSDK">
+     <output url="file://$PROJECT_DIR$/build/classes" />
+   </component>
+   <component name="ProjectType">
+Index: ../VDListView/.idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ExternalStorageConfigurationManager\" enabled=\"true\" />\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_21\" project-jdk-name=\"jbr-21\" project-jdk-type=\"JavaSDK\">\n    <output url=\"file://$PROJECT_DIR$/build/classes\" />\n  </component>\n  <component name=\"ProjectType\">\n    <option name=\"id\" value=\"Android\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../VDListView/.idea/misc.xml b/../VDListView/.idea/misc.xml
+--- a/../VDListView/.idea/misc.xml	(revision e990dba3350d345e16470322207f8003457f287f)
++++ b/../VDListView/.idea/misc.xml	(date 1774455611735)
+@@ -1,7 +1,6 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ExternalStorageConfigurationManager" enabled="true" />
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" project-jdk-name="jbr-21" project-jdk-type="JavaSDK">
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="jbr-21" project-jdk-type="JavaSDK">
+     <output url="file://$PROJECT_DIR$/build/classes" />
+   </component>
+   <component name="ProjectType">
+Index: ../vdLayOut/.idea/gradle.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"GradleMigrationSettings\" migrationVersion=\"1\" />\n  <component name=\"GradleSettings\">\n    <option name=\"linkedExternalProjectsSettings\">\n      <GradleProjectSettings>\n        <option name=\"testRunner\" value=\"CHOOSE_PER_TEST\" />\n        <option name=\"externalProjectPath\" value=\"$PROJECT_DIR$\" />\n        <option name=\"modules\">\n          <set>\n            <option value=\"$PROJECT_DIR$\" />\n            <option value=\"$PROJECT_DIR$/app\" />\n          </set>\n        </option>\n      </GradleProjectSettings>\n    </option>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../vdLayOut/.idea/gradle.xml b/../vdLayOut/.idea/gradle.xml
+--- a/../vdLayOut/.idea/gradle.xml	(revision e990dba3350d345e16470322207f8003457f287f)
++++ b/../vdLayOut/.idea/gradle.xml	(date 1774363502701)
+@@ -6,12 +6,14 @@
+       <GradleProjectSettings>
+         <option name="testRunner" value="CHOOSE_PER_TEST" />
+         <option name="externalProjectPath" value="$PROJECT_DIR$" />
++        <option name="gradleJvm" value="jbr-21" />
+         <option name="modules">
+           <set>
+             <option value="$PROJECT_DIR$" />
+             <option value="$PROJECT_DIR$/app" />
+           </set>
+         </option>
++        <option name="resolveExternalAnnotations" value="true" />
+       </GradleProjectSettings>
+     </option>
+   </component>
+Index: ../CalculatorLinearLayout/.idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AndroidLayouts\">\n    <shared>\n      <config />\n    </shared>\n    <layouts>\n      <layout url=\"file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml\">\n        <config>\n          <theme>@style/Theme.CalculatorLinearLayout</theme>\n        </config>\n      </layout>\n    </layouts>\n  </component>\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"NONE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"3d9ce5aa-3531-4124-9400-418b7a33d053\" name=\"Changes\" comment=\"Calculator LinearLayout\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"ClangdSettings\">\n    <option name=\"formatViaClangd\" value=\"false\" />\n  </component>\n  <component name=\"ExecutionTargetManager\" SELECTED_TARGET=\"device_and_snapshot_combo_box_target[LocalEmulator::path=/Users/quynhnguyen/.android/avd/Pixel_5.avd]\" />\n  <component name=\"ExternalProjectsData\">\n    <projectState path=\"$PROJECT_DIR$\">\n      <ProjectState />\n    </projectState>\n  </component>\n  <component name=\"ExternalProjectsManager\">\n    <system id=\"GRADLE\">\n      <state>\n        <projects_view>\n          <tree_state>\n            <expand>\n              <path>\n                <item name=\"\" type=\"6a2764b6:ExternalProjectsStructure$RootNode\" />\n                <item name=\"CalculatorLinearLayout\" type=\"f1a62948:ProjectNode\" />\n              </path>\n            </expand>\n            <select />\n          </tree_state>\n        </projects_view>\n      </state>\n    </system>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$/..\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;,\n    &quot;assignee&quot;: &quot;dwin05&quot;\n  }\n}</component>\n  <component name=\"GithubPullRequestsUISettings\">{\n  &quot;selectedUrlAndAccountId&quot;: {\n    &quot;url&quot;: &quot;https://github.com/dwin05/65132978-AndroidProgramming.git&quot;,\n    &quot;accountId&quot;: &quot;b0cc3ae6-e01d-424b-9f23-50f9c64c677c&quot;\n  }\n}</component>\n  <component name=\"ProblemsViewState\">\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 7\n}</component>\n  <component name=\"ProjectId\" id=\"3AwxTS7tZMclnQWLCLrmIZX9ox0\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;Android App.app.executor&quot;: &quot;Run&quot;,\n    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,\n    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,\n    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,\n    &quot;git-widget-placeholder&quot;: &quot;main&quot;,\n    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,\n    &quot;last_opened_file_path&quot;: &quot;/Users/quynhnguyen/65132978-AndroidProgramming/CalculatorLinearLayout&quot;\n  }\n}</component>\n  <component name=\"RunManager\">\n    <configuration name=\"app\" type=\"AndroidRunConfigurationType\" factoryName=\"Android App\" activateToolWindowBeforeRun=\"false\">\n      <module name=\"Calculator.app\" />\n      <option name=\"ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION\" value=\"1\" />\n      <option name=\"DEPLOY\" value=\"true\" />\n      <option name=\"DEPLOY_APK_FROM_BUNDLE\" value=\"false\" />\n      <option name=\"DEPLOY_AS_INSTANT\" value=\"false\" />\n      <option name=\"ARTIFACT_NAME\" value=\"\" />\n      <option name=\"PM_INSTALL_OPTIONS\" value=\"\" />\n      <option name=\"ALL_USERS\" value=\"false\" />\n      <option name=\"ALWAYS_INSTALL_WITH_PM\" value=\"false\" />\n      <option name=\"ALLOW_ASSUME_VERIFIED\" value=\"false\" />\n      <option name=\"CLEAR_APP_STORAGE\" value=\"false\" />\n      <option name=\"DYNAMIC_FEATURES_DISABLED_LIST\" value=\"\" />\n      <option name=\"ACTIVITY_EXTRA_FLAGS\" value=\"\" />\n      <option name=\"MODE\" value=\"default_activity\" />\n      <option name=\"RESTORE_ENABLED\" value=\"false\" />\n      <option name=\"RESTORE_FILE\" value=\"\" />\n      <option name=\"RESTORE_FRESH_INSTALL_ONLY\" value=\"false\" />\n      <option name=\"CLEAR_LOGCAT\" value=\"false\" />\n      <option name=\"SHOW_LOGCAT_AUTOMATICALLY\" value=\"false\" />\n      <option name=\"TARGET_SELECTION_MODE\" value=\"DEVICE_AND_SNAPSHOT_COMBO_BOX\" />\n      <option name=\"SELECTED_CLOUD_MATRIX_CONFIGURATION_ID\" value=\"-1\" />\n      <option name=\"SELECTED_CLOUD_MATRIX_PROJECT_ID\" value=\"\" />\n      <option name=\"DEBUGGER_TYPE\" value=\"Auto\" />\n      <Auto>\n        <option name=\"USE_JAVA_AWARE_DEBUGGER\" value=\"false\" />\n        <option name=\"SHOW_STATIC_VARS\" value=\"true\" />\n        <option name=\"WORKING_DIR\" value=\"\" />\n        <option name=\"TARGET_LOGGING_CHANNELS\" value=\"lldb process:gdb-remote packets\" />\n        <option name=\"SHOW_OPTIMIZED_WARNING\" value=\"true\" />\n        <option name=\"ATTACH_ON_WAIT_FOR_DEBUGGER\" value=\"false\" />\n        <option name=\"DEBUG_SANDBOX_SDK\" value=\"false\" />\n      </Auto>\n      <Hybrid>\n        <option name=\"USE_JAVA_AWARE_DEBUGGER\" value=\"false\" />\n        <option name=\"SHOW_STATIC_VARS\" value=\"true\" />\n        <option name=\"WORKING_DIR\" value=\"\" />\n        <option name=\"TARGET_LOGGING_CHANNELS\" value=\"lldb process:gdb-remote packets\" />\n        <option name=\"SHOW_OPTIMIZED_WARNING\" value=\"true\" />\n        <option name=\"ATTACH_ON_WAIT_FOR_DEBUGGER\" value=\"false\" />\n        <option name=\"DEBUG_SANDBOX_SDK\" value=\"false\" />\n      </Hybrid>\n      <Java>\n        <option name=\"ATTACH_ON_WAIT_FOR_DEBUGGER\" value=\"false\" />\n        <option name=\"DEBUG_SANDBOX_SDK\" value=\"false\" />\n      </Java>\n      <Native>\n        <option name=\"USE_JAVA_AWARE_DEBUGGER\" value=\"false\" />\n        <option name=\"SHOW_STATIC_VARS\" value=\"true\" />\n        <option name=\"WORKING_DIR\" value=\"\" />\n        <option name=\"TARGET_LOGGING_CHANNELS\" value=\"lldb process:gdb-remote packets\" />\n        <option name=\"SHOW_OPTIMIZED_WARNING\" value=\"true\" />\n        <option name=\"ATTACH_ON_WAIT_FOR_DEBUGGER\" value=\"false\" />\n        <option name=\"DEBUG_SANDBOX_SDK\" value=\"false\" />\n      </Native>\n      <Profilers>\n        <option name=\"ADVANCED_PROFILING_ENABLED\" value=\"false\" />\n        <option name=\"STARTUP_PROFILING_ENABLED\" value=\"false\" />\n        <option name=\"STARTUP_CPU_PROFILING_ENABLED\" value=\"false\" />\n        <option name=\"STARTUP_CPU_PROFILING_CONFIGURATION_NAME\" value=\"Java/Kotlin Method Sample (legacy)\" />\n        <option name=\"STARTUP_NATIVE_MEMORY_PROFILING_ENABLED\" value=\"false\" />\n        <option name=\"NATIVE_MEMORY_SAMPLE_RATE_BYTES\" value=\"2048\" />\n      </Profilers>\n      <option name=\"DEEP_LINK\" value=\"\" />\n      <option name=\"ACTIVITY\" value=\"\" />\n      <option name=\"ACTIVITY_CLASS\" value=\"\" />\n      <option name=\"SEARCH_ACTIVITY_IN_GLOBAL_SCOPE\" value=\"false\" />\n      <option name=\"SKIP_ACTIVITY_VALIDATION\" value=\"false\" />\n      <method v=\"2\">\n        <option name=\"Android.Gradle.BeforeRunTask\" enabled=\"true\" />\n      </method>\n    </configuration>\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"3d9ce5aa-3531-4124-9400-418b7a33d053\" name=\"Changes\" comment=\"\" />\n      <created>1773517441776</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1773517441776</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"Calculator LinearLayout\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1773517966293</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1773517966293</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"2\" />\n    <servers />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"Calculator LinearLayout\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Calculator LinearLayout\" />\n  </component>\n  <component name=\"XDebuggerManager\">\n    <breakpoint-manager>\n      <breakpoints>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/app/src/main/java/com/quynh/calculatorlinearlayout/MainActivity.java</url>\n          <line>20</line>\n          <option name=\"timeStamp\" value=\"1\" />\n        </line-breakpoint>\n      </breakpoints>\n    </breakpoint-manager>\n  </component>\n  <component name=\"play_dynamic_filters_status\">\n    <option name=\"appIdToCheckInfo\">\n      <map>\n        <entry key=\"com.quynh.calculatorlinearlayout\">\n          <value>\n            <CheckInfo lastCheckTimestamp=\"1774089173265\" />\n          </value>\n        </entry>\n        <entry key=\"com.quynh.calculatorlinearlayout.test\">\n          <value>\n            <CheckInfo lastCheckTimestamp=\"1774089173268\" />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../CalculatorLinearLayout/.idea/workspace.xml b/../CalculatorLinearLayout/.idea/workspace.xml
+--- a/../CalculatorLinearLayout/.idea/workspace.xml	(revision e990dba3350d345e16470322207f8003457f287f)
++++ b/../CalculatorLinearLayout/.idea/workspace.xml	(date 1774368319075)
+@@ -16,7 +16,20 @@
+     <option name="autoReloadType" value="NONE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="3d9ce5aa-3531-4124-9400-418b7a33d053" name="Changes" comment="Calculator LinearLayout" />
++    <list default="true" id="3d9ce5aa-3531-4124-9400-418b7a33d053" name="Changes" comment="Calculator LinearLayout">
++      <change afterPath="$PROJECT_DIR$/../Casio/.idea/Casio.iml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../vdLayOut/.idea/deploymentTargetSelector.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../vdLayOut/.idea/migrations.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../GiaiPTBac1/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GiaiPTBac1/.idea/gradle.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../GiaiPTBac1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GiaiPTBac1/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../HelloAndroid/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloAndroid/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../VDListView/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VDListView/.idea/gradle.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../VDListView/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VDListView/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../vdLayOut/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vdLayOut/.idea/gradle.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../vdLayOut/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vdLayOut/.idea/misc.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -203,12 +216,12 @@
+       <map>
+         <entry key="com.quynh.calculatorlinearlayout">
+           <value>
+-            <CheckInfo lastCheckTimestamp="1774089173265" />
++            <CheckInfo lastCheckTimestamp="1774368081291" />
+           </value>
+         </entry>
+         <entry key="com.quynh.calculatorlinearlayout.test">
+           <value>
+-            <CheckInfo lastCheckTimestamp="1774089173268" />
++            <CheckInfo lastCheckTimestamp="1774368081292" />
+           </value>
+         </entry>
+       </map>
+Index: ../AppMenu/app/src/main/res/layout/item_menu.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"utf-8\"?>\n<LinearLayout xmlns:android=\"http://schemas.android.com/apk/res/android\"\n    android:layout_width=\"match_parent\"\n    android:layout_height=\"80dp\">\n\n    <ImageView\n        android:id=\"@+id/imgMonAn\"\n        android:layout_width=\"80dp\"\n        android:layout_height=\"80dp\"\n        android:background=\"#BBB4F2\"/>\n\n    <LinearLayout\n        android:layout_width=\"match_parent\"\n        android:layout_height=\"80dp\"\n        android:background=\"#ECFAC4\"\n        android:orientation=\"vertical\"\n        android:paddingStart=\"20dp\"\n        android:paddingTop=\"5dp\">\n\n        <TextView\n            android:id=\"@+id/tvTen\"\n            android:layout_width=\"match_parent\"\n            android:layout_height=\"25dp\"\n            android:layout_gravity=\"center\"\n            android:text=\"Ca vien chien mam toi\"\n            android:textSize=\"18dp\" />\n\n        <TextView\n            android:id=\"@+id/tvGia\"\n            android:layout_width=\"match_parent\"\n            android:layout_height=\"20dp\"\n            android:text=\"50.000 VND\" />\n\n        <TextView\n            android:id=\"@+id/tvMoTa\"\n            android:layout_width=\"match_parent\"\n            android:layout_height=\"20dp\"\n            android:text=\"Ca vien chien du loai, rau muong xao voi mam toi\" />\n    </LinearLayout>\n</LinearLayout>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../AppMenu/app/src/main/res/layout/item_menu.xml b/../AppMenu/app/src/main/res/layout/item_menu.xml
+--- a/../AppMenu/app/src/main/res/layout/item_menu.xml	(revision e990dba3350d345e16470322207f8003457f287f)
++++ b/../AppMenu/app/src/main/res/layout/item_menu.xml	(date 1775189837949)
+@@ -2,13 +2,11 @@
+ <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="match_parent"
+     android:layout_height="80dp">
+-
+     <ImageView
+         android:id="@+id/imgMonAn"
+         android:layout_width="80dp"
+         android:layout_height="80dp"
+         android:background="#BBB4F2"/>
+-
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="80dp"
+@@ -16,7 +14,6 @@
+         android:orientation="vertical"
+         android:paddingStart="20dp"
+         android:paddingTop="5dp">
+-
+         <TextView
+             android:id="@+id/tvTen"
+             android:layout_width="match_parent"
+@@ -24,13 +21,11 @@
+             android:layout_gravity="center"
+             android:text="Ca vien chien mam toi"
+             android:textSize="18dp" />
+-
+         <TextView
+             android:id="@+id/tvGia"
+             android:layout_width="match_parent"
+             android:layout_height="20dp"
+             android:text="50.000 VND" />
+-
+         <TextView
+             android:id="@+id/tvMoTa"
+             android:layout_width="match_parent"
+Index: ../GiaiPTBac1/.idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ExternalStorageConfigurationManager\" enabled=\"true\" />\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_21\" default=\"true\" project-jdk-name=\"jbr-21\" project-jdk-type=\"JavaSDK\">\n    <output url=\"file://$PROJECT_DIR$/build/classes\" />\n  </component>\n  <component name=\"ProjectType\">\n    <option name=\"id\" value=\"Android\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../GiaiPTBac1/.idea/misc.xml b/../GiaiPTBac1/.idea/misc.xml
+--- a/../GiaiPTBac1/.idea/misc.xml	(revision e990dba3350d345e16470322207f8003457f287f)
++++ b/../GiaiPTBac1/.idea/misc.xml	(date 1774360149384)
+@@ -1,4 +1,3 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ExternalStorageConfigurationManager" enabled="true" />
+   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="jbr-21" project-jdk-type="JavaSDK">

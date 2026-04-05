@@ -1,0 +1,22 @@
+com.quynh.fragmentdynamic
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button4
+id button5
+id button6
+id framContent
+id framFooter
+id main
+layout activity_main
+layout fragment_content
+layout fragment_footer
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string hello_blank_fragment
+style Base_Theme_FragmentDynamic
+style Theme_FragmentDynamic
+xml backup_rules
+xml data_extraction_rules

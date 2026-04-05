@@ -1,0 +1,7 @@
+com.quynh.fragmentdynamic.app-pngs-0 /Users/quynhnguyen/65132978-AndroidProgramming/FragmentDynamic/app/build/generated/res/pngs/debug
+com.quynh.fragmentdynamic.app-updated_navigation_xml-1 /Users/quynhnguyen/65132978-AndroidProgramming/FragmentDynamic/app/build/generated/updated_navigation_xml/debug
+com.quynh.fragmentdynamic.app-packageDebugResources-2 /Users/quynhnguyen/65132978-AndroidProgramming/FragmentDynamic/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.quynh.fragmentdynamic.app-packageDebugResources-3 /Users/quynhnguyen/65132978-AndroidProgramming/FragmentDynamic/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.quynh.fragmentdynamic.app-debug-4 /Users/quynhnguyen/65132978-AndroidProgramming/FragmentDynamic/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.quynh.fragmentdynamic.app-debug-5 /Users/quynhnguyen/65132978-AndroidProgramming/FragmentDynamic/app/src/debug/res
+com.quynh.fragmentdynamic.app-main-6 /Users/quynhnguyen/65132978-AndroidProgramming/FragmentDynamic/app/src/main/res
