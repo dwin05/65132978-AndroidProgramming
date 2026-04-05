@@ -122,6 +122,21 @@
 
 *Tạo ra giao diện tương tự như Fragment tĩnh nhưng đoạn mã xây dựng chính được thực hiện trong file MainActivity.*
 
+### Bài 13 Fragment Replacing
+
+[Chi tiết]()
+
+<img width="1101" height="739" alt="image" src="https://github.com/user-attachments/assets/52f18a3f-31e3-42d7-8d1c-e26ea789364b" />
+
+*Khi click button 3*
+
+<img width="1098" height="723" alt="image" src="https://github.com/user-attachments/assets/b38fe66e-192f-4e0b-b3d4-ddfa8ba9981f" />
+
+*Khi click vào button 1*
+
+*Phát triển thêm  bài 11, 12 rong bài này khi click vào các btn thì sẽ có màn hình thay thế màn hình chính. Mã lệnh chính nằm trong file FooterFragment - quả lý các button.*
+
+
 
 
 
