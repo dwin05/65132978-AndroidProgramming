@@ -97,11 +97,23 @@
 
 ### Bài 10 vd1 Explicit Intents
 
-[Chi tiết]()
+[Chi tiết](AppNgheNhac/app/src/main)
 
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/b05d9ba2-9187-4765-b363-6835182f95b7" />
-
 *Sử dụng Explicit Intents, thực hiện chuyển qua lại giữa các màn hình.*
+
+<img width="1140" height="748" alt="image" src="https://github.com/user-attachments/assets/92a936aa-9e21-44fb-a4c2-0137b0d00148" />
+
+*Màn hình thứ 2 khi click btn chuyển đi. Nếu dùng click vào button quay về sẽ trở lại màn hình ban đầu.*
+
+### Bài 11 Fragment Static 
+
+[Chi tiết]()
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/a203cdaa-4938-49ed-979f-8b34be3b4fbb" />
+
+*Làm theo video hướng dẫn của giáo viên. Sử dụng fragment static.*
+
 
 
 
