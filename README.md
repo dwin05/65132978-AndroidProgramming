@@ -108,7 +108,7 @@
 
 ### Bài 11 Fragment Static 
 
-[Chi tiết]()
+[Chi tiết](FragmentVD/app/src/main)
 
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/a203cdaa-4938-49ed-979f-8b34be3b4fbb" />
 
