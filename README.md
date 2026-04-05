@@ -114,6 +114,15 @@
 
 *Làm theo video hướng dẫn của giáo viên. Sử dụng fragment static.*
 
+### Bài 12 Fragment Dynamic
+
+[Chi tiết]()
+
+<img width="1170" height="734" alt="image" src="https://github.com/user-attachments/assets/ecf9937a-056e-4a46-82b9-d51ed389e722" />
+
+*Tạo ra giao diện tương tự như Fragment tĩnh nhưng đoạn mã xây dựng chính được thực hiện trong file MainActivity.*
+
+
 
 
 
