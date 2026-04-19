@@ -136,6 +136,29 @@
 
 *Phát triển thêm  bài 11, 12 rong bài này khi click vào các btn thì sẽ có màn hình thay thế màn hình chính. Mã lệnh chính nằm trong file FooterFragment - quả lý các button.*
 
+### Ôn tập gk2 
+[Chi tiết]()
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/5cf61bda-5631-447f-b196-f5d7c8e7aa67" />
+*Giao diện main của chương trình, gồm 2 imageview và 5 button.*
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/2a628136-00ac-4b2b-bce1-4e280cff7bc9" />
+*button BMI sẽ hiển thị ra màn hình tính chỉ số bmi của cơ thể, người dùng nhập chiều cao, cân nặng đúng với yêu cầu. Nếu nhập không đúng kiểu dữ liệu hoặc để trống sẽ bắt nhập lại.*
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/6a2ed17d-efa8-4d96-b74e-509884bed416" />
+*btn giới thiệu sẽ hiển thị ra thông tin của sinh viên, bên cạnh đó có ứng dụng background galaxy, ảnh bo góc và có background vẽ đường viền cong.*
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/acfb0a71-b48b-4dfa-bec6-576ec5c4d94e" />
+*Listview mon ăn, hiển thị danh sách các món ăn. Khi người dùng click vào món ăn sẽ thấy được thông tin chi tiết của món ăn đó.*
+<img width="420" height="690" alt="image" src="https://github.com/user-attachments/assets/27e78d77-c85b-44a5-a223-1d75d4438fa0" />
+
+*btn bài thuốc cũng tương tự như btn list view nhưng nó sử dụng recycler view.*
+
+
+
+
+
+
 
 
 
