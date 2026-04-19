@@ -12,7 +12,19 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.OpTap1">
         <activity
+            android:name=".DanhSachBaiThuoc"
+            android:exported="false" />
+        <activity
+            android:name=".ChitietBaiThuoc"
+            android:exported="false" />
+        <activity
+            android:name=".BaiThuoc"
+            android:exported="false" />
+        <activity
             android:name=".Intro"
+            android:exported="false" />
+        <activity
+            android:name=".ChiTietMonAN"
             android:exported="false" />
         <activity
             android:name=".LVMonAn"

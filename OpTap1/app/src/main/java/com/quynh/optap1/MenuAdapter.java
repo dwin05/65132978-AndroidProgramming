@@ -41,19 +41,16 @@ public class MenuAdapter extends BaseAdapter {
         // view item hien tai
         View viewHienHanh = convertView;
         //kt
-        if(viewHienHanh == null)
-            viewHienHanh = layoutInflater.inflate(R.layout.item_menu, null);
+        if(viewHienHanh == null) {
+            viewHienHanh = layoutInflater.inflate(android.R.layout.simple_list_item_1, parent, false);
+        }
         Menu monAnHienTai = dsMonAn.get(position);
 
-        TextView tv_Ten = viewHienHanh.findViewById(R.id.tvTen);
-        TextView tv_Gia = viewHienHanh.findViewById(R.id.tvGia);
-        TextView tv_MoTa = viewHienHanh.findViewById(R.id.tvMoTa);
-        ImageView img_MonAn = viewHienHanh.findViewById(R.id.imgMonAn);
-        //set
+        TextView tv_Ten = viewHienHanh.findViewById(android.R.id.text1);
+
+        // Chỉ set Tên hiển thị
         tv_Ten.setText(monAnHienTai.getTen());
-        tv_Gia.setText(String.valueOf(monAnHienTai.getGia()));
-        tv_MoTa.setText(monAnHienTai.getMoTa());
-        img_MonAn.setImageResource(monAnHienTai.getIdAnh());
+
         return viewHienHanh;
     }
 }

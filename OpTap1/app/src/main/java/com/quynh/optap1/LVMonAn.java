@@ -1,5 +1,6 @@
 package com.quynh.optap1;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
@@ -48,7 +49,14 @@ public class LVMonAn extends AppCompatActivity {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 Menu choose = dsMonAn.get(position);
-                Toast.makeText(LVMonAn.this, choose.getTen(), Toast.LENGTH_LONG).show();
+
+                Intent intent = new Intent(LVMonAn.this, ChiTietMonAN.class);
+                intent.putExtra("ten", choose.getTen());
+                intent.putExtra("gia", choose.getGia());
+                intent.putExtra("mota", choose.getMoTa());
+                intent.putExtra("hinh", choose.getIdAnh());
+
+                startActivity(intent);
             }
         });
     }

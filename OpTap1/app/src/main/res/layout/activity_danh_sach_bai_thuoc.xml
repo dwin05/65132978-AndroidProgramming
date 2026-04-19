@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical"
-    tools:context=".LVMonAn">
-
+    android:background="#F5F5F5"
+    android:padding="16dp">
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="150dp"
@@ -26,20 +25,14 @@
             android:layout_height="116dp"
             android:paddingStart="10dp"
             android:paddingTop="20dp"
-            android:text="Menu món ăn"
+            android:text="danh sách bài thuốc"
             android:textColor="#4B0606"
             android:textSize="25dp" />
     </LinearLayout>
 
-    <LinearLayout
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvBaiThuoc"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:orientation="vertical"
-        android:padding="16dp">
-        <ListView
-            android:id="@+id/lvMenu"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"/>
-    </LinearLayout>
+        android:layout_height="match_parent" />
 
 </LinearLayout>

@@ -26,6 +26,9 @@ public class MainActivity extends AppCompatActivity {
         });
         btnBMI = findViewById(R.id.btnBMI);
         btnMonAn = findViewById(R.id.btnMonAn);
+        btnBaiThuoc = findViewById(R.id.btnBaiThuoc);
+
+
         btnBMI.setOnClickListener(v -> {
             Intent intent = new Intent(MainActivity.this, mhBMI.class);
             startActivity(intent);
@@ -34,6 +37,20 @@ public class MainActivity extends AppCompatActivity {
         btnMonAn.setOnClickListener(v -> {
             Intent intent = new Intent(MainActivity.this, LVMonAn.class);
             startActivity(intent);
+        });
+
+        btnBaiThuoc.setOnClickListener(v -> {
+            Intent intent = new Intent(MainActivity.this, DanhSachBaiThuoc.class);
+            startActivity(intent);
+        });
+
+        Button btnIntro = findViewById(R.id.btnIntro);
+        btnIntro.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, Intro.class);
+                startActivity(intent);
+            }
         });
     }
 }
