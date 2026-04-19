@@ -12,7 +12,7 @@ import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
 public class MainActivity extends AppCompatActivity {
-    Button btnBMI, btnMonAn, btnBaiThuoc, btnIntro;
+    Button btnBMI, btnMonAn, btnBaiThuoc, btnIntro, btnBonus;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
         btnBMI = findViewById(R.id.btnBMI);
         btnMonAn = findViewById(R.id.btnMonAn);
         btnBaiThuoc = findViewById(R.id.btnBaiThuoc);
+        btnBonus= findViewById(R.id.btnBonus);
 
 
         btnBMI.setOnClickListener(v -> {
@@ -41,6 +42,11 @@ public class MainActivity extends AppCompatActivity {
 
         btnBaiThuoc.setOnClickListener(v -> {
             Intent intent = new Intent(MainActivity.this, DanhSachBaiThuoc.class);
+            startActivity(intent);
+        });
+
+        btnBonus.setOnClickListener(v -> {
+            Intent intent = new Intent(MainActivity.this, TinTucRSS.class);
             startActivity(intent);
         });
 
