@@ -31,9 +31,9 @@ public class MainActivity extends AppCompatActivity {
             startActivity(new Intent(MainActivity.this, HCN.class));
         });
 
-//        btnTP.setOnClickListener(v -> {
-//            startActivity(new Intent(MainActivity.this, TP.class));
-//        });
+        btnTP.setOnClickListener(v -> {
+            startActivity(new Intent(MainActivity.this, LVThanhPho.class));
+        });
 
 
         btnIntro.setOnClickListener(new View.OnClickListener() {

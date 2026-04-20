@@ -12,7 +12,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Thigk2NguyenThiDiemQuynh">
         <activity
-            android:name=".LVMonAn"
+            android:name=".DiaDiem"
+            android:exported="false" />
+        <activity
+            android:name=".LVThanhPho"
             android:exported="false" />
         <activity
             android:name=".HCN"
