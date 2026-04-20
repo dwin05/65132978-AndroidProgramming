@@ -1,24 +1,25 @@
 package com.quynh.thigk2nguyenthidiemquynh;
 
-import android.os.Bundle;
+public class DiaDiem {
+    private String ten;
+    private String diaChi;
+    private int hinhAnh; // Lưu ID của hình ảnh trong thư mục drawable
 
-import androidx.activity.EdgeToEdge;
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.graphics.Insets;
-import androidx.core.view.ViewCompat;
-import androidx.core.view.WindowInsetsCompat;
+    public DiaDiem(String ten, String diaChi, int hinhAnh) {
+        this.ten = ten;
+        this.diaChi = diaChi;
+        this.hinhAnh = hinhAnh;
+    }
 
-public class DiaDiem extends AppCompatActivity {
+    public String getTen() {
+        return ten;
+    }
 
-    @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        EdgeToEdge.enable(this);
-        setContentView(R.layout.activity_dia_diem);
-        ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main), (v, insets) -> {
-            Insets systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars());
-            v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
-            return insets;
-        });
+    public String getDiaChi() {
+        return diaChi;
+    }
+
+    public int getHinhAnh() {
+        return hinhAnh;
     }
 }

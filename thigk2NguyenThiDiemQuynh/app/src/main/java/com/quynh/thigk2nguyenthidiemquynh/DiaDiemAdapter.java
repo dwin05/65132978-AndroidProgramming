@@ -10,12 +10,12 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-public class ThanhPhoAdapter extends BaseAdapter {
+public class DiaDiemAdapter extends BaseAdapter {
     private Context context;
     private int layout;
-    private ArrayList<ThanhPho> dsThanhPho;
+    private ArrayList<DiaDiem> dsThanhPho;
 
-    public ThanhPhoAdapter(Context context, int layout, ArrayList<ThanhPho> dsThanhPho) {
+    public DiaDiemAdapter(Context context, int layout, ArrayList<DiaDiem> dsThanhPho) {
         this.context = context;
         this.layout = layout;
         this.dsThanhPho = dsThanhPho;
@@ -61,7 +61,7 @@ public class ThanhPhoAdapter extends BaseAdapter {
         }
 
         // Gán dữ liệu vào View
-        ThanhPho thanhPho = dsThanhPho.get(position);
+        DiaDiem thanhPho = dsThanhPho.get(position);
         holder.txtTen.setText(thanhPho.getTen());
         holder.txtDiaChi.setText(thanhPho.getDiaChi());
         holder.imgLand.setImageResource(thanhPho.getHinhAnh());

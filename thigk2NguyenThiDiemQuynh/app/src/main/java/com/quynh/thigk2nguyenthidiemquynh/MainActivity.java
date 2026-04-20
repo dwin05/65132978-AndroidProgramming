@@ -35,6 +35,9 @@ public class MainActivity extends AppCompatActivity {
             startActivity(new Intent(MainActivity.this, LVThanhPho.class));
         });
 
+        btnDiaDiem.setOnClickListener(v -> {
+            startActivity(new Intent(MainActivity.this, LVDiaDiem.class));
+        });
 
         btnIntro.setOnClickListener(new View.OnClickListener() {
             @Override
