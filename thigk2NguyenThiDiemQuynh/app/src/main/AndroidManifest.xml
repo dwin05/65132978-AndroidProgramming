@@ -12,6 +12,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Thigk2NguyenThiDiemQuynh">
         <activity
+            android:name=".LVMonAn"
+            android:exported="false" />
+        <activity
+            android:name=".HCN"
+            android:exported="false" />
+        <activity
+            android:name=".Intro"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

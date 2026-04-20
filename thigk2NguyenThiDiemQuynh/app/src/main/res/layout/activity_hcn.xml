@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".HCN">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:orientation="horizontal"
+        android:background="@drawable/bg_cong">
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="60dp"
+            android:layout_weight="5"
+            android:gravity="center"
+            android:text="TÍNH DIỆN TÍCH VÀ CHU VI HCN"
+            android:textColor="#4B0606"
+            android:textSize="30dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="15dp"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="40dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="30dp"
+            android:paddingTop="15dp"
+            android:text="H: "
+            android:textSize="22dp"/>
+
+        <EditText
+            android:id="@+id/edtH"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#C2EB93"
+            android:paddingStart="20dp"
+            android:hint="Nhap chieu dai" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="15dp"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="40dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="30dp"
+            android:paddingTop="15dp"
+            android:text="W: "
+            android:textSize="22dp"/>
+
+        <EditText
+            android:id="@+id/edtW"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#C2EB93"
+            android:paddingStart="20dp"
+            android:hint="Nhap chieu rong" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:orientation="vertical">
+        <Button
+            android:id="@+id/btnTinh"
+            android:layout_width="150dp"
+            android:layout_height="80dp"
+            android:text="Tinh"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="10dp"
+            android:paddingTop="15dp"
+            android:text="Chu vi: "
+            android:textSize="17dp"/>
+        <EditText
+            android:id="@+id/edtCV"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingStart="20dp"
+            android:background="#C2EB93" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="10dp"
+            android:paddingTop="15dp"
+            android:text="DT: "
+            android:textSize="17dp"/>
+        <EditText
+            android:id="@+id/edtDT"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingStart="20dp"
+            android:background="#C2EB93" />
+    </LinearLayout>
+</LinearLayout>

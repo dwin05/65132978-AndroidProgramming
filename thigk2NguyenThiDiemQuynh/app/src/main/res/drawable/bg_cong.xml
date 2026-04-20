@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="300dp"
+    android:viewportWidth="200"
+    android:viewportHeight="300">
+
+    <!-- Nền -->
+    <path
+        android:fillColor="#F2BEBE"
+        android:pathData="
+            M0,0
+            L200,0
+            L200,240
+            Q150,300 100,240
+            T0,240
+            Z"/>
+
+    <!-- Viền cong phía dưới -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="#A05858"
+        android:strokeWidth="2"
+        android:pathData="
+            M200,240
+            Q150,300 100,240
+            T0,240"/>
+</vector>
