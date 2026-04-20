@@ -155,7 +155,7 @@
 *btn bài thuốc cũng tương tự như btn list view nhưng nó sử dụng recycler view.*
 
 
-###Bài kiểm tra giữa kỳ 
+### Bài kiểm tra giữa kỳ 
 *Màn hình chính*
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/9344e6e7-516e-479a-aff2-90e243e6564f" />
 
