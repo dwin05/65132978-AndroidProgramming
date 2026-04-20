@@ -1,4 +1,4 @@
-# 65132978-AndroidProgramming
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/6f52f96d-16f1-47a1-b92e-5e292ed0ddd0" /># 65132978-AndroidProgramming
 ## Kho lưu trữ bài tập môn lập trình thiết bị di động của Diễm Quỳnh - 65.CNTT-2
 ##
 ### Bài 1 Hello World
@@ -153,6 +153,30 @@
 <img width="420" height="690" alt="image" src="https://github.com/user-attachments/assets/27e78d77-c85b-44a5-a223-1d75d4438fa0" />
 
 *btn bài thuốc cũng tương tự như btn list view nhưng nó sử dụng recycler view.*
+
+
+##Bài kiểm tra giữa kỳ 
+*Màn hình chính*
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/9344e6e7-516e-479a-aff2-90e243e6564f" />
+
+*Chức năng 1: Màn hình tính chu vi, diện tích hình chữ nhật*
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/729b8df7-2a65-4f77-aeb0-7101708e3931" />
+
+*Chức năng 2: Màn hình listview thành phố*
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/f5c92990-92d6-4271-91c3-9c82fc554b6f" />
+
+*Chức năng 3: Màn hình địa điểm du lịch*
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/ddfb9d26-98da-46ff-a19a-bfbc5c676792" />
+
+
+*Chức năng 4: Màn hình giới thiệu bản thân*
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/8f6df0c2-ec36-462f-afec-ae9a01a9a1a3" />
+
+
+
+
+
+
 
 
 
