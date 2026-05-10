@@ -172,6 +172,15 @@
 *Chức năng 4: Màn hình giới thiệu bản thân*
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/8f6df0c2-ec36-462f-afec-ae9a01a9a1a3" />
 
+### APP Viec Can Lam
+<img width="738" height="727" alt="image" src="https://github.com/user-attachments/assets/836d2bd4-80f6-40c5-a8ad-9886236ced5e" />
+*Cấu trúc cây trong Firebase*
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/991639fa-959e-4cf5-9fdf-c5830d426749" />
+*cấu trúc dữ liệu*
+
+
+
 
 
 
